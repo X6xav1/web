@@ -15,7 +15,8 @@ const firebaseConfig = {
   projectId: "x6web-4ac14",
   storageBucket: "x6web-4ac14.appspot.com",
   messagingSenderId: "341938654296",
-  appId: "1:341938654296:web:d52d64d983a7ac45214e2d"
+  appId: "1:341938654296:web:d52d64d983a7ac45214e2d",
+  measurementId: "G-W6Z44P18SP"
 };
 
 // Initialize Firebase
